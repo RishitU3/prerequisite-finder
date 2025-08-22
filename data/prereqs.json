@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Computer Networks - 1",
+        "prerequisites": "Object Oriented Concepts, Data Structures and Algorithms",
+        "description": "This course covers fundamental concepts of computer networking, including the OSI and TCP/IP models, network protocols, and data transmission methods.",
+        "source": "BMSCE"
+    },
+    {
+        "title": "Cloud Computing",
+        "prerequisites": "Computer Networks, Web Technologies",
+        "description": "An introduction to the principles and applications of cloud computing, covering topics such as virtualization, IaaS, PaaS, and SaaS.",
+        "source": "BMSCE"
+    },
+    {
+        "title": "Unknown Title",
+        "prerequisites": "Not specified",
+        "description": "Not available",
+        "source": "Swayam"
+    },
+    {
+        "title": "Unknown Title",
+        "prerequisites": "Not specified",
+        "description": "Not available",
+        "source": "MIT"
+    }
+]

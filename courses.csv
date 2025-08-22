@@ -1,0 +1,52 @@
+Department,Course Code,Course Title,Faculty Incharge,Except For,Swayam_URL,Prerequisites
+ISE,23IS6OEWTG,Web Technologies,Dr.Mamatha,"CV, IS, MEL, CS&DS, CS&IOT, AI&DS",,"CS101: Intro to Programming, CS102: Web Basics"
+ISE,23IS6OEDSA,Data Structures and Algorithms,Dr. Shubha Rao,"CV, IS, MEL, CS&DS, CS&IOT, AI&DS,EIE",,CS101: Intro to Programming
+ISE,23IS6OECNS,Cryptography and Network Security,Dr.Nalina V,"CV, IS, CS&IOT, AI&DS",,"CS201: Data Structures, MATH201: Discrete Mathematics"
+ISE,23IS6OERPA,Robotic Process Automation Design and development,Dr.Gururaja H S,"CV, MEL, AI&DS,",,None
+ME,23ME6OEROB,Fundamentals of Robotics,Dr. G Karthik,,,"ME101: Mechanics, CS201: Data Structures"
+ME,24ME6OEDGM,Digital Marketing,Dr. Ram Rohit V,,,None
+ME,24ME6OEDGM,Digital Marketing,Prof. G.Dilip Maruthi,,,None
+ME,25ME6OEOPT,Optimization Techniques,Dr. Sangamesh C Godi,,,None
+ME,25ME6OESMM,Smart Mobility,Dr. R.N Ravikumar,,,None
+ME,23ME6OEMAC,Material Characterization,Dr.H.R.Prakash,,,None
+CSE,23CS6OECRP,Cryptography,Supreeth S,"CS, IS, MEL, CS&DS, CS&IOT, AI&DS, CS&BS",,"CS201: Data Structures, MATH201: Discrete Mathematics"
+CSE,23CS6OERPA,Robot Process Automation Design and Development,Dr. Selva Kumar S,,,None
+CV,23CV6OEMFC,Mechanics of FRP composites,"Dr T. Rajanna,","EC, CS, ET, IS, EI, ML, BT, MEL, CS&DS, CS&IOT, AI&DS",,None
+CV,23CV6OEMFC,Mechanics of FRP composites,Dr. Guruprasad Y K,"EC, CS, ET, IS, EI, ML, BT, MEL, CS&DS, CS&IOT AI&DS",,None
+CV,23CV6OECCC,Climate change and carbon capture,Dr. Sreenivasa Murthy A,,,None
+CV,23CV6OECCC,Climate change and carbon capture,Dr S.V. Manjunath,,,None
+CV,23CV6OEDMM,Disaster Management and Mitigation Techniques,Dr. Reshmidevi T V,,,None
+EEE,23EE6OE1SW,Solar and Wind Energy Technologies,Dr. V Champa,,,None
+EEE,23EE6OE1SW,Solar and Wind Energy Technologies,Dr. K Padmavathi,,,None
+EEE,23EE6OE1SW,Solar and Wind Energy Technologies,Dr. S Pradeepa,,,None
+EEE,23EE6OE1EM,Electrical and Electronics Engineering Materials,Dr. Nindra Sekhar,CV,,None
+EEE,23EE6OE1IT,IOT and Applications,Dr. Venkata Madhava Ram Tatabhatla,"MEL, CS&IOT, EI",,None
+EEE,23EE6OE1IT,IOT and Applications,Dr. Ravulakari Kalyan,"MEL, CS&IOT ,EI",,None
+EEE,23EE6OE1PL,PLC and SCADA,Prof. Chaitanya L,"CV,EI",,None
+EEE,24EE6OEAMM,Advanced Microfabrication and Device Manufacturing,Dr. Chandasree Das,CV,,None
+IEM,23IM6OESCM,Supply Chain Management,Dr. Ramesh K T,IM,,"CS201: Data Structures, MATH202: Probability and Statistics"
+IEM,22IM6OEOPR,Operations Research,Dr. RAMESH NAYAK B,"ME, IM",,None
+IEM,22IM6OEHRM,Human Resource Management,Dr. Kavitha Rani,"ME, EE, EC, IM, CS, ETE, IS, EI, BT, AE, AI&DS",,None
+IEM,22IM6OEHRM,Human Resource Management,Prof. Mayur Appaiah,"ME, EE, EC, IM, CS, ET, IS, EI, BT, AE, AI&DS",,None
+ETE,23ET6OECHC,Communication in Health care,Dr Balachandra K,,,None
+EIE,23EI6OE1CI,Carbon Initiative for climate,Prof S Kumuda,"ME, EC, IM, CS, IS, AS, AI&DS",,None
+BT,23BT6OEBBI,BIOSENSORS &BIOINSTRUMENTATION,N.PRATHIBHA,EIE,,None
+BT,23BT6OEBTE,BATTERY TECHNOLOGY,Dr. PRAPHULLA,,,None
+CH,"23CH6OECOM
+/ 22CH6OECOM",Composite Materials,Dr. Sanjay Kumar,,,None
+CH,"23CH6OEOPR /
+22CH6OEOPR",Operations Research,Dr.Chetan A Nayak,"ME, IM",,None
+MAT,23MA6OESFE,Mathematical Statistics for Engineers,Dr. P Gomathi,"BT, MEL, C&IOT",,None
+MAT,23MA6OEOTE,Optimization Techniques for Engineers,Dr. Chandra Shekara G,MEL,,None
+MAT,23MA6OENME,Numerical Methods for Engineers,Dr. B. Mallikarjuna,,,None
+MAT,23MA6OENME,Numerical Methods for Engineers,Dr. N. Sujatha,,,None
+AI&ML,24AM6OEAIG,Introduction to AI,Prof. Lavanya B Koppal,"CS, IS, MEL, CS&IOT, AI&DS,",,"CS201: Data Structures, MATH202: Probability and Statistics"
+AI&ML,24AM6OEMLG,Introduction to Machine learning,Prof. Swaroop B.M,"CS, IS, MEL, CS&DS, CS&IOT, AI&DS",,"CS201: Data Structures, MATH202: Probability and Statistics"
+AI&ML,24AM6OEINN,Introduction to Neural Networks,Dr. Seemanthini K,"CS, IS, MEL, CS&DS, CS&IOT, AI&DS",,None
+CS(DS),23DS6OEDBM,Database Managment Systems,Prof. Sandhya G,"CS, IS, MEL, CS&DS, CS&IOT, AI&DS, CV",,None
+CS(IOT),23IC6OEOOP,Object Oriented Programming with C++,Prof. A G Tejashwini,"ME, EE, EC, IM, CS, ET, IS, EI, ML, AE, CS&DS, CS&IOT, AI&DS",,None
+AIDS,23AI6OEIAI,Introduction to AI,Prof Suresh Babu,"ME, EE, EC, IM, CS, ET, IS, ML, AE, MEL, CS&IOT, AI&DS",,"CS201: Data Structures, MATH202: Probability and Statistics"
+ECE,23EC6OE1IR,Introduction to robotics,Dr.Rajanikanth Kashi,"ME, IM, AE",,"ME101: Mechanics, CS201: Data Structures"
+ECE,23EC6OE1IR,Introduction to robotics,Dr.Shivakumar,"ME, IM, AE",,"ME101: Mechanics, CS201: Data Structures"
+ECE,23EC6OE1AE,APPLIED ELECTRONICS,Dr. Kalpana,"EE, EC, CS, ET, IS, EI, ML",,None
+ECE,23EC6OE1AE,APPLIED ELECTRONICS,Dr.Jisha,"EE, EC, CS, ET, IS, EI, ML",,None
